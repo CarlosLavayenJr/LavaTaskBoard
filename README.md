@@ -1,2 +1,1 @@
-# LavaTaskBoard
-A task board web app designed to assist in planning out tasks.
+# Task Board Starter Code
